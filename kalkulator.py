@@ -1,4 +1,8 @@
+#import module
+Import os
+Import sys
 #logo
+Os.system("clear")
 print("=======================================")
 print("Author : muhammad saiful galang")
 print("wWhatsApp : 082146685361")
